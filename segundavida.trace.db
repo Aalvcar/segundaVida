@@ -1,0 +1,4 @@
+2025-07-15 07:43:38.044016+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "SELECT * FROM USUARIO PRODUCTO [*]PRODUCTO PRODUCTO"
+Syntax error in SQL statement "SELECT * FROM USUARIO PRODUCTO [*]PRODUCTO PRODUCTO"; SQL statement:
+SELECT * FROM USUARIO PRODUCTO PRODUCTO PRODUCTO [42000-232]
